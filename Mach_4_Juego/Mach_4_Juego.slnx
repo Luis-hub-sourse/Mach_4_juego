@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Dominio/Dominio.csproj" />
+  <Project Path="Presistencia/Presistencia.csproj" />
+  <Project Path="Prueba_Funcional/Prueba_Funcional.csproj" />
+</Solution>
