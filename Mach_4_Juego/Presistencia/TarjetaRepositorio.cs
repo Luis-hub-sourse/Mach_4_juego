@@ -4,7 +4,7 @@ using MongoDB.Driver;
 
 namespace Presistencia;
 
-public class TarjetaRepositorio
+public class TarjetaRepositorio : ITarjetaRepositorio
 {
     private readonly IMongoCollection<Tarjeta> _tarjetasCollection;
 
